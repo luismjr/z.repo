@@ -1,7 +1,6 @@
 package com.example.z;
 
-public abstract class Shape {
+public class Diamond extends Shape{
     private Integer x;
     private Integer y;
-    String color = "Black";
 }
